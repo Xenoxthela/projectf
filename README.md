@@ -1,1 +1,2 @@
 # projectf
+fun with command
